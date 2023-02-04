@@ -1,4 +1,6 @@
 # autonomous_task_stereo_cam
+
+The youtube video that describes the project is here: https://youtu.be/j6TCe5DvkVs 
  
  The directories are as follows:
  
